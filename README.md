@@ -8,3 +8,5 @@ OpenOffice2
 
 2020 Aug 30. fabiorug
 https://github.com/fabiorug/Fonts
+
+![preview of font Nouveaba Plate](https://i.imgur.com/nD0qGqC.png)
