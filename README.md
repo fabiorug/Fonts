@@ -1,9 +1,10 @@
 # Fonts Copyright
-2020 Aug 30. fabiorug
-https://github.com/fabiorug/Fonts
-License: All fonts are open source.
-Nouveaba Plate Monospace (Near Demo)
+Open source fonts specifically designed for neurological disorder, dyslexia or reading long texts. I recommend normal Nouveaba Plate, is an hybrid of normal rounded and square fonts.
 Nouveaba Plate
+Nouveaba Plate Monospace (Near Demo)
 OpenBell
 OpenOffice2
 
+
+2020 Aug 30. fabiorug
+https://github.com/fabiorug/Fonts
