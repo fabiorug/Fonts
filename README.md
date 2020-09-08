@@ -13,3 +13,5 @@ https://github.com/fabiorug/Fonts
 Preview of font Openbell
 
 ![preview of font Openbell](https://i.imgur.com/spYdMOM.png)
+
+![preview of font Taquit] (https://i.imgur.com/a277xKu.png)
